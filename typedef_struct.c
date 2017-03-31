@@ -7,7 +7,7 @@
 using namespace std;
 
 int main(void)
-{
+{ 
   typedef struct 
   {
    string name;
