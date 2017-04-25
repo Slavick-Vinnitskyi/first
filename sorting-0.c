@@ -30,7 +30,7 @@ int main (int argc, char* argv[])
         }
     }
    }
-   cout<< "There are the sorted massive of "<< a<< " elements: ";
+   cout<< "There are the sorted massive of "<< a << " elements: ";
     for(int j=0;j<a;j++)
     {
         cout<< mas[j]<<" ";
