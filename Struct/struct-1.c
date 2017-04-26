@@ -20,6 +20,6 @@ int main ()
 {
     ps = &group;
     cout << "Enter FIO and then Math, Programming scores : "; cin >> ps->FIO>>ps->marks.Math>>ps->marks.Progr;
-    cout<< group.FIO<<" "<<group.marks.Math<<" "<<group.marks.Progr<<endl;
+    cout<< group.FIO<<" "<<group.marks.Math<<" "<<ps->marks.Progr<<endl;
 }
    
